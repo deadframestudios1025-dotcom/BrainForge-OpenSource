@@ -5,9 +5,9 @@ class PowerManagementSystems:
             "Main_Power_System",
             "Power_Recycle_Drive",
             "Power_Recycle_System",
-            "Back_Up Power from P_R_S",
-            "EmergencyPower = P_R_S Reserve Bank",
-            "Advanced ION Battery P_R_S",
+            "Back_Up Power from R_P_S",
+            "EmergencyPower = R_P_S Reserve Bank",
+            "Advanced ION Battery R_P_S",
             "Regeneration_Power_Systems = R_P_S = Regenerative Power System",
             "Operations Regulatory Power Usage System"
         ]
